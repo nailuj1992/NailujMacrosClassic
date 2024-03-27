@@ -12,7 +12,7 @@ local _, englishClass, _ = UnitClass("player")
 -- List for all spells utilized for my macros
 --------------------------------------------------------------------
 local paladinSpells = {
-	{31935, "Avenger\'s Shield", "Escudo del vengador"},
+	{31935, "Avenger\'s Shield", "Escudo de vengador"},
 	{31884, "Avenging wrath", "Cólera vengativa"},
 	{6940, "Hand of sacrifice", "Mano de sacrificio"},
 	{1038, "Hand of salvation", "Mano de Salvación"},
