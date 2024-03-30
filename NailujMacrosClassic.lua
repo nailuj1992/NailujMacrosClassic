@@ -113,7 +113,7 @@ if englishClass == "PALADIN" then
 	createCustomMacroNailuj("paladinSealsChangeButton", paladinSpells, 14, "Seals change alt", "/use [nomod:alt] " ..chooseSpellByLanguage(paladinSpells, 13) .. " ; [mod:alt] " .. chooseSpellByLanguage(paladinSpells, 14))
 	createCustomMacroNailuj("paladinTauntButton", paladinSpells, 16, "Taunt", "/use [nomod:alt] " ..chooseSpellByLanguage(paladinSpells, 16) .. " ; [mod:alt] " .. chooseSpellByLanguage(paladinSpells, 17))
 	createCustomMacroNailuj("paladinRedemptionButton", paladinSpells, 11, "Revive single", "/use " .. chooseSpellByLanguage(paladinSpells, 11) .. "\n/s Reviviendo al manco de %t xD")
-	createCustomMacroNailuj("paladinOffHealButton", paladinSpells, 19, "Off heal", "/use [@player] " .. chooseSpellByLanguage(paladinSpells, 18) .. "\n" .. "/use " .. chooseSpellByLanguage(paladinSpells, 19))
+	createCustomMacroNailuj("paladinOffHealButton", paladinSpells, 19, "Off heal", "/use [@player] " .. chooseSpellByLanguage(paladinSpells, 20) .. "\n" .. "/use " .. chooseSpellByLanguage(paladinSpells, 19))
 	createCustomMacroNailuj("paladinSacredShieldButton", paladinSpells, 12, "Sacred shield", "/use [@player] " .. chooseSpellByLanguage(paladinSpells, 12))
 end
 
