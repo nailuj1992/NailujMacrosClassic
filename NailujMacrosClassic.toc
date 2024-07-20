@@ -1,7 +1,7 @@
-## Interface: 100206
+## Interface: 40400
 ## Title: Nailuj Macros Classic
 ## Author: Nailuj
-## Version: 1.0.1
+## Version: 2.0.0
 ## Notes: Creates/uses specific macros for my characters (identifying the spells according the language of the game).
 ## SavedVariables: 
 
